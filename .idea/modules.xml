@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ADS 2 periodo LPOO Java.iml" filepath="$PROJECT_DIR$/ADS 2 periodo LPOO Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Abstracao e Encapsulamento/Abstracao e Encapsulamento.iml" filepath="$PROJECT_DIR$/Abstracao e Encapsulamento/Abstracao e Encapsulamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classes, Atributos e Métodos/Classes, Atributos e Métodos.iml" filepath="$PROJECT_DIR$/Classes, Atributos e Métodos/Classes, Atributos e Métodos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Conceitos básicos de Java/Conceitos básicos de Java.iml" filepath="$PROJECT_DIR$/Conceitos básicos de Java/Conceitos básicos de Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSwing/JavaSwing.iml" filepath="$PROJECT_DIR$/JavaSwing/JavaSwing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/arrays.iml" filepath="$PROJECT_DIR$/arrays/arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/condicionais/condicionais.iml" filepath="$PROJECT_DIR$/condicionais/condicionais.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lacos de repeticao/lacos de repeticao.iml" filepath="$PROJECT_DIR$/lacos de repeticao/lacos de repeticao.iml" />
+    </modules>
+  </component>
+</project>
